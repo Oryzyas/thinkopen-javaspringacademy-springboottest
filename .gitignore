@@ -1,0 +1,17 @@
+*.class
+*.log
+.idea
+target
+*.iml
+FE/node_modules
+bundle.js*
+
+\.settings/
+
+\.classpath
+
+\.factorypath
+
+\.project
+
+\.vscode/
